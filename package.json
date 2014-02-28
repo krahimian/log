@@ -1,0 +1,15 @@
+{
+  "name": "log",
+  "version": "0.0.0",
+  "description": "a basic logging module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "0.7.2",
+    "winston-mail": "0.2.7"
+  }
+}
