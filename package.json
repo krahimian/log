@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "winston": "https://api.github.com/repos/vacay/winston/tarball/master",
+    "winston": "vacay/winston",
     "winston-mail": "0.2.7"
   }
 }
