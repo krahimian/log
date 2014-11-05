@@ -1,18 +1,22 @@
 {
-  "name": "log",
-  "version": "0.0.2",
-  "description": "a basic logging module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT",
-  "dependencies": {
-    "winston": "https://api.github.com/repos/vacay/winston/tarball/0.7.4",
-    "winston-mail": "0.2.7"
-  },
-  "devDependencies": {
-    "semver": "2.2.1"
-  }
+    "name": "log",
+    "version": "0.0.2",
+    "description": "a basic logging module",
+    "repository" : {
+	"type" : "git",
+	"url" : "http://github.com/vacay/log.git"
+    },
+    "main": "index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+	"winston": "https://github.com/vacay/winston/tarball/0.7.4",
+	"winston-mail": "0.2.7"
+    },
+    "devDependencies": {
+	"semver": "2.2.1"
+    }
 }
