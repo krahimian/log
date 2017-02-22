@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "winston": "https://github.com/vacay/winston/tarball/0.7.4",
-    "winston-mail": "0.2.7"
+    "winston-mail": "1.3.0"
   },
   "devDependencies": {
     "semver": "2.2.1"
